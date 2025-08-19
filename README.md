@@ -38,3 +38,8 @@ Designed for wrestlers, coaches, and tournaments to replace expensive hardware s
 - Install dependencies:
 ```bash
 pip install screeninfo
+### Run the App
+```bash
+python wrestling_scoreboard.py
+'''
+w
