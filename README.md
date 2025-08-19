@@ -56,11 +56,11 @@ python wrestling_scoreboard.py
 
 ## Roadmap / Future Ideas
 
-* ✅ Add decision winner logic
-* ⏳ Save match history to CSV/JSON
-* ⏳ Add weight class tracking
-* ⏳ Mobile/tablet-friendly version
-* ⏳ Tournament bracket mode
+* Add decision winner logic
+* Save match history to CSV/JSON
+* Add weight class tracking
+* Mobile/tablet-friendly version
+* Tournament bracket mode
 
 ---
 
@@ -72,5 +72,5 @@ This project is licensed under the **MIT License** — feel free to use and adap
 
 ## Acknowledgements
 
-* Built by a wrestler, for wrestlers 🥇
-* Inspired by the need for an **affordable, accessible scoreboard** solution.
+* Built by a wrestler, for wrestlers.
+* Inspired by the need for an **simple, accessible scoreboard** solution.
