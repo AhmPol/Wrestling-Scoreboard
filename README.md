@@ -7,7 +7,17 @@ This repository contains the full app code, assets, and setup to run the scorebo
 
 ## Screenshots
 
-*(Screenshots or GIFs of your app in action — e.g., intro screen and scoreboard view)*
+Main app view:
+
+![Main Screen](assets/main_screen.png)
+
+Score Editor view:
+
+![Scoreboard Demo](assets/score_editor.png)
+
+Scoreboard view:
+
+![Scoreboard Demo](assets/score.png)
 
 ---
 
