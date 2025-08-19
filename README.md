@@ -1,13 +1,37 @@
 # Wrestling Scoreboard
 
 A **real-time wrestling scoring and timer system** built in **Python (Tkinter)**.
-Designed for wrestlers, coaches, and tournaments to replace expensive hardware scoreboards with a free, lightweight solution.
+This repository contains the full app code, assets, and setup to run the scoreboard on any system.
+
+---
+
+## Repository Structure
+
+```
+wrestling-scoreboard/
+│
+├── wrestling_scoreboard.py     # Main Python app (Tkinter code)
+├── README.md                   # Project description, features, setup
+├── requirements.txt            # Dependencies (e.g., screeninfo)
+├── LICENSE                     # MIT License (recommended)
+├── .gitignore                  # Ignore __pycache__, .env, etc.
+│
+├── assets/                     # Images, screenshots, or demo GIFs
+│   ├── screenshot_main.png
+│   └── scoreboard_demo.gif
+│
+├── docs/                       # (Optional) extra documentation
+│   └── design.md
+│
+└── tests/                      # (Optional) test scripts if added later
+    └── test_timer.py
+```
 
 ---
 
 ## Screenshots
 
-*(Add images or GIFs of your app here — e.g., main screen + live scoreboard window)*
+*(Screenshots or GIFs of your app in action — e.g., intro screen and scoreboard view)*
 
 ---
 
@@ -43,7 +67,7 @@ Designed for wrestlers, coaches, and tournaments to replace expensive hardware s
 * Install dependencies:
 
 ```bash
-pip install screeninfo
+pip install -r requirements.txt
 ```
 
 ### Run the App
@@ -72,5 +96,5 @@ This project is licensed under the **MIT License** — feel free to use and adap
 
 ## Acknowledgements
 
-* Built by a wrestler, for wrestlers.
-* Inspired by the need for an **simple, accessible scoreboard** solution.
+* Built by a wrestler, for wrestlers
+* Inspired by the need for an **affordable, accessible scoreboard** solution.
