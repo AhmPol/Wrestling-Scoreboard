@@ -5,30 +5,6 @@ This repository contains the full app code, assets, and setup to run the scorebo
 
 ---
 
-## Repository Structure
-
-```
-wrestling-scoreboard/
-│
-├── wrestling_scoreboard.py     # Main Python app (Tkinter code)
-├── README.md                   # Project description, features, setup
-├── requirements.txt            # Dependencies (e.g., screeninfo)
-├── LICENSE                     # MIT License (recommended)
-├── .gitignore                  # Ignore __pycache__, .env, etc.
-│
-├── assets/                     # Images, screenshots, or demo GIFs
-│   ├── screenshot_main.png
-│   └── scoreboard_demo.gif
-│
-├── docs/                       # (Optional) extra documentation
-│   └── design.md
-│
-└── tests/                      # (Optional) test scripts if added later
-    └── test_timer.py
-```
-
----
-
 ## Screenshots
 
 *(Screenshots or GIFs of your app in action — e.g., intro screen and scoreboard view)*
