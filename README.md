@@ -1,16 +1,16 @@
-# 🏆 Wrestling Scoreboard
+# Wrestling Scoreboard
 
 A **real-time wrestling scoring and timer system** built in **Python (Tkinter)**.  
 Designed for wrestlers, coaches, and tournaments to replace expensive hardware scoreboards with a free, lightweight solution.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 *(Add images or GIFs of your app here — e.g., main screen + live scoreboard window)*
 
 ---
 
-## ✨ Features
+## Features
 - Input wrestler names and bout number  
 - Real-time scoring (1, 2, or 4 point buttons)  
 - Match timer with automatic **periods & breaks**  
@@ -24,14 +24,14 @@ Designed for wrestlers, coaches, and tournaments to replace expensive hardware s
 
 ---
 
-## 🛠️ Tech Stack
+## Programs Used
 - **Python 3**  
 - **Tkinter** (GUI framework)  
 - **screeninfo** (for multi-monitor scoreboard display)  
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8+  
